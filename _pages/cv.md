@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download CV](/files/current-cv.pdf)
+You can see the latest version of my CV [HERE](/files/current-cv.pdf).
