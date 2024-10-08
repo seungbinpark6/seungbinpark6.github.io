@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-Reviewed Articles
 
-- Park, S., Clark, J. K., Schmiesing, R. J., Reece, J., Kaiser, M., and Lee, J. Y. (Accepted). Neighbors' perceptions of university engaged "research." *Journal of Planning Education and Research*.
+- Park, S., Clark, J. K., Schmiesing, R. J., Reece, J., Kaiser, M., and Lee, J. Y. (2024). Neighbors' perceptions of university engaged "research." *Journal of Planning Education and Research*. Advance online publication. DOI: [10.1177/0739456X241284271](https://doi.org/10.1177/0739456X241284271)
 
 - Lee, J. Y., Clark, J. K., Schmiesing, R., Kaiser, M. L., Reece, J., and Park, S. (2024). Perspectives of community members on community-based participatory research: A systemactic literature review. *Journal of Urban Affairs*. Advance online publication. DOI: [10.1080/07352166.2024.2305132](https://doi.org/10.1080/07352166.2024.2305132)
 
